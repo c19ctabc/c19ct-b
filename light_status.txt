@@ -1,0 +1,22 @@
+light_status.txt
+
+informal
+
+  tests run on converted files around 00:22z 31 March; no glaring errors seen.
+
+  Some percentiles are nonsense figures, as when going from 0 hospitalized cases, to 2.
+  These are represented as a hard zero (no cell formula).  Generally after the fact
+  (after a cookie-cutter cell formula was applied, and gave nonsense as output).
+  Rectifying this is left as an exercise for the user of the spreadsheet. ;)
+
+  New category wrt no known address seen with 30 March press release (Governor, CT)
+
+  USA stats generally 1-3 days behind CT stats, as it is desirable to edit
+  this just once per (settled) calendar date.
+
+  Negative percentiles were reformatted to be represented as enclosed in parens.
+
+  First noted: .CSV seems to export all formulas to hard numbers!  Was not
+  expecting that.
+ 
+  c19ctabc, Northwest Connecticut (no professional skillset leveraged)
