@@ -1,0 +1,4 @@
+  $ cat sketchy.txt 
+covid-19_progression_math.html
+
+The .html is HTML 4.0 and is less useful than the HTML 3.2 version.

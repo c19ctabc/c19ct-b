@@ -1,0 +1,13 @@
+be2fd8a9baeab7217f81f7e104743df0  covid-19_progression_math_biff7.xls
+7eb77685ac390ea29eca701f4c543eb6  covid-19_progression_math_biff8.xls
+e4b38e70452ba65ca0ffa32f425353b8  covid-19_progression_math.csv
+bb08ec3cd5ca77bf551d3e83a9a07c6e  covid-19_progression_math_dsf.xls
+6a9f127222ae9bfa1a549030334c00ac  covid-19_progression_math.gnumeric
+c5c15217ca7f1fbb16cec4199a44efa5  covid-19_progression_math.html
+07aae3b2c1ac5932222791e88af94eac  covid-19_progression_math.html.3.2.html
+16b7641c2827b47a80be6fc94f04d467  covid-19_progression_math.xlsx
+de6a3bb5beb1916527922bd4acfc3a36  covid-19_progression_math_xlsx2.xlsx
+03bdc26bcbf6778ed5ee83c86c0a3d69  export_formats.txt
+dcc978e9bc7059b4c7d74203f5026bc3  md5sums.txt
+33bd84025eebbc43489c642440fc3407  results.txt
+b45dd5e70a58b36df64166db9d66531d  run_conversion.sh

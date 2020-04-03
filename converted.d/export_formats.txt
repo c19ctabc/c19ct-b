@@ -1,0 +1,9 @@
+ID                                | Description
+Gnumeric_Excel:xlsx2              | ISO/IEC 29500:2008 & ECMA 376 2nd edition (2008); [MS Excel™ 2010]
+Gnumeric_Excel:xlsx               | ECMA 376 1st edition (2006); [MS Excel™ 2007]
+Gnumeric_Excel:excel_dsf          | MS Excel™ 97/2000/XP & 5.0/95
+Gnumeric_Excel:excel_biff7        | MS Excel™ 5.0/95
+Gnumeric_Excel:excel_biff8        | MS Excel™ 97/2000/XP
+Gnumeric_html:html40              | HTML 4.0 (*.html)
+Gnumeric_html:html32              | HTML 3.2 (*.html)
+Gnumeric_stf:stf_csv              | Comma separated values (CSV)
