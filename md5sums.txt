@@ -1,3 +1,3 @@
-6ac4277e79e636912b188777f886881c  covid-19_progression_math.csv
-761d99f11da984d374bf7ab6a5a91c69  covid-19_progression_math.gnumeric
+166aabacdc5e38c2e9cfaf52b7ff1718  covid-19_progression_math.csv
+adf83ec40d8682db371b8db41b71ed52  covid-19_progression_math.gnumeric
 b005357f3296db5037e2c3892f30a56c  README.md
