@@ -11,6 +11,7 @@ with
 Files:
 
      Base file - where all work was done:  covid-19_progression_math.gnumeric
+     Base file -     with graph included:  covid-19_progression_graph.gnumeric
        Exported to CSV for all platforms:  covid-19_progression_math.csv
  md5sum (checksum, hash) for these files:  md5sums.txt
                           This very file:  README.md
@@ -18,4 +19,4 @@ Files:
           exported to other file formats:  converted.d
                          other resources:  resources.d
 
-# Thu Apr 16 07:37:12 UTC 2020
+# Sun Apr 19 14:52:09 UTC 2020
