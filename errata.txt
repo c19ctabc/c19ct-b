@@ -1,3 +1,21 @@
+Thu Apr 23 23:10:36 UTC 2020
+
+    Line 61: did not get an update.
+    Affected file(s):
+        5a4c635cfaf0cbc81eec521299b405d9  covid-19_progression_math_graph_xtra.gnumeric
+
+    commit 6f4dd9942c3bd9daeb8a9652a9d5234826042eb1
+    Author: c19ctabc <c19ctabc@users.noreply.github.com>
+    Date:   Thu Apr 23 23:04:49 2020 +0000
+
+        First edit of the day.
+
+        Several edits are required; too much of
+        a backlog to do a super good job of it. ;)
+
 Tue Apr  7 22:55:04 UTC 2020
 
-Put in Tuesday April 6 instead of Tue April 7, top left of spreadsheet.  FIXED.
+    Put in Tuesday April 6 instead of Tue April 7, top left of spreadsheet.  FIXED.
+
+
+END.
