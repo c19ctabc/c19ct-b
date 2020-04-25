@@ -1,3 +1,8 @@
+Friday
+
+    Noticed some errata.  One graph (or more) was not
+    updated (L49 to L54 - 5 new entries)
+
 Thu Apr 23 23:10:36 UTC 2020
 
     Line 61: did not get an update.
