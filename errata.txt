@@ -1,3 +1,9 @@
+Fri May  1 08:14:05 UTC 2020
+    48d3a583753133afe7e7d0ffab6f7b0f  ./covid-19_progression_math.gnumeric
+
+    Noticed one entry missing; did not carry one transaction
+    completely (and the multiplier wasn't updated).
+
 Friday
 
     Noticed some errata.  One graph (or more) was not
