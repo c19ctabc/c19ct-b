@@ -16,4 +16,22 @@ graph overall (provides automatic resizing on the
 X axis to fit in all the data, including reserving
 space for future entries, when this is desirable).
 
+Some initial X axis setups do not print the values
+but will nevertheless print the scale 'ticks' that
+correspond to them.
+
+So many graphs have at least two X axes; the second
+one specified usually has the correct coefficients
+specified (as a range or 'Scale?' TODO: check on
+nomenclature).
+
+So for example, if the scale is to represent June 8th
+through June 21st, the coefficients of '8' and '21'
+are specified as the endpoints for that scale (or
+scale 'segment' where there are multiple segments
+listed for different data sets, especially on 30 and
+31 day calendar blocks, where numbering resets back
+to the 1st of the month, for the next month in
+sequence).
+
 
