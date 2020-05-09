@@ -54,7 +54,32 @@ will be mistakes in those assumptions/observations.
 
  - - -
 
+The absolute scale is also given on most graphs; different
+starting places have been tried.
 
+The earlier ones used the zero point (where the numbers
+proceed into negative integer values, to the left of
+the zero on the number-line).
+
+That zero point was almost always specified to correspond
+with March 31st.
+
+This left April 1st as postive 1; April 5th as postive 5,
+and so on.
+
+Since the very first case in Connecticut reached reporting
+on March 8th, this works out fairly well as a timeline for
+the advance of the virus in the State.
+
+Later, this was normalized somewhat, so that adding 10, 20,
+30, 40 &c. to the day of the month produces the corresponding
+number on the absolute scale.
+
+As the error is less than 9 days, and those 9 days, in
+hindsight, become less and less important, this is seen
+as an acceptable compromise to get things aligned neatly,
+and more importantly, usefully to casual interpretation
+of each of the graphs.
 
 
 
