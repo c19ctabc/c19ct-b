@@ -1,0 +1,19 @@
+Sat 09 May 2020 09:36:46 PM UTC
+
+Some graphs have a scaled X axis; to get them to
+correspond with real data, their range is specified.
+
+Since no exact mathematics was ever done to scale
+them along integer divisions, this creates a small
+problem with scaling an arbitrary length integer
+line segment to correspond with real data intercepts.
+
+And this is why producing new graphs with new scalings
+takes time and effort to do well.
+
+In general, the very first X axis specified rules the
+graph overall (provides automatic resizing on the
+X axis to fit in all the data, including reserving
+space for future entries, when this is desirable).
+
+
