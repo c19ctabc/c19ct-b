@@ -30,4 +30,14 @@ out of the dependency lineage for a few days,
 anyway, if regrets become deep enough to want to
 undo it. ;)
 
+ - - -
+
+Thursday, 23:51 UTC:
+
+  With a decent glance at the entire repository, in 'gitk'
+  it seems evident that the current file will indeed become
+  the permanent version (no obvious reasons to back away
+  from it, and it contains all improvements intended to be
+  kept/propagated forward in time).  -author
+
 # Thu Jun  4 23:23:01 UTC 2020
