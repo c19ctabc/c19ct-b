@@ -1,0 +1,17 @@
+Wed Jun 10 02:38:03 UTC 2020
+
+Important:
+
+  Conversions beginning today (perhaps from last
+several days, if they'd been run .. they had not)
+fail, due to expansion of the worksheet beyond
+256 columns.
+
+  Unknown just how they fail.
+
+  The data beyond 256 columns may be simply dropped,
+with no other harms to the converted file.
+
+  This has not been explored.
+
+  10 June 2020, 02:39 UTC.
