@@ -18,4 +18,7 @@ Files:
 
           exported to other file formats:  converted.d
 
-# Wed Jun 10 02:40:17 UTC 2020
+Note for Friday, June 26: this file nearly abandoned, in
+the one sense that it's not being maintained.
+
+# Fri Jun 26 08:25:50 UTC 2020
